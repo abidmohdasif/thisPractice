@@ -62,4 +62,4 @@ const display = {
 // Instead of passing "Clicked!", change handleClick() to use this.text, and assign this.text = "Clicked!"; inside the event function. Also try the same with an arrow function.
 
 // Q: What does this.text refer to in each case? Why does the arrow function behave differently?
-// This.text refers to the global scope. while the arrow function refers to the object.
+// This.text refers to the global scope. while the arrowfunction refers to the object.
